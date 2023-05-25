@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?text=Kim%20Soomin&animation=twinkling&fontColor=fff&type=waving&height=0&fontAlignY=30&fontSize=55)
+
+
 <p>
   <h3  align="center">🕹&nbsp;Tech Stack&nbsp;🕹</h3>
 </p>
@@ -26,17 +29,27 @@
 <br><br><br>
 
 <div align=center>
+ 
+  <p align="center">
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoom1ng%2Fhit-counter&count_bg=%23FFDCDC&title_bg=%23FFD2D2&icon=github.svg&icon_color=%23F3F3F3&title=visited+++%F0%9F%96%90+&edge_flat=false"/></a>
+</p>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyerim0523&count_bg=%23DB5375&title_bg=%239A6072&icon=github.svg&icon_color=%23E7E7E7&title=++HITS++&edge_flat=true)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyerim0523&count_bg=%23DB5375&title_bg=%239A6072&icon=github.svg&icon_color=%23E7E7E7&title=++HITS++&edge_flat=true)](https://hits.seeyoufarm.com) -->
   
 </div>
 <br>
 
-<div align=center>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soom1ng&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift)
+<div > 
+<!-- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soom1ng&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift) -->
   
+  #### :pencil2: Study log
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soom1ng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+  
+
 
 
 <!--

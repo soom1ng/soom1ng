@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Kim%20Soomin&animation=twinkling&fontColor=fff&type=waving&height=0&fontAlignY=30&fontSize=55)
-
+![header](https://capsule-render.vercel.app/api?text=Soomin%20&animation=twinkling&fontColor=fff&type=waving&height=160&fontAlignY=30&fontSize=55)
 
 <p>
   <h3  align="center">🕹&nbsp;Tech Stack&nbsp;🕹</h3>
@@ -48,8 +47,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soom1ng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-  
 
+![footer](https://capsule-render.vercel.app/api?section=footer&height=160&&type=waving) 
 
 
 <!--

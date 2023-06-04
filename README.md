@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?text=Soomin%20&animation=twinkling&fontColor=fff&type=waving&height=160&fontAlignY=30&fontSize=55) -->
 
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20SuminKim%20%20&fontAlign=40&fontSize=40&textBg=true&desc=💻%20Front-End%20Developer%20👩🏻‍💻&descAlign=75&descAlignY=50)
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Sumin-Kim%20%20&fontAlign=40&fontSize=40&textBg=true&desc=%20Front-End%20Developer%20👩🏻‍💻&descAlign=75&descAlignY=50)
 
 <br><br>
 

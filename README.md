@@ -33,13 +33,18 @@
 
  
 # 📝 Study log
-
- <div align="left" >
+<div display="flex" flex-direction= "row">
+  <div align="left" width:"100px"  >
      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soom1ng&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soom1ng&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
   
- </div>
+  <!-- </div>
+  <div align="right" width:"300px" >
+     
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soom1ng&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift) 
+   </div> --!>
 
+</div>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soom1ng&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift) -->
     

@@ -2,7 +2,7 @@
 
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Sumin-Kim%20%20&fontAlign=40&fontSize=40&textBg=true&desc=%20Front-End%20Developer%20👩🏻‍💻&descAlign=75&descAlignY=50)
 
-<br><br>
+<br>
 
 <p>
   <h3  align="center">&nbsp💻 Tech Stack&nbsp; 💻</h3>
@@ -24,27 +24,23 @@
   <a><img src="https://img.shields.io/badge/Oracle-FF4500?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
   <a><img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp 
   <a><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a>&nbsp 
-</p><br><br>
+</p>
 
+ 
 <p align="center">
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoom1ng%2Fhit-counter&count_bg=%23FFDCDC&title_bg=%23FFD2D2&icon=github.svg&icon_color=%23F3F3F3&title=visited+++%F0%9F%96%90+&edge_flat=false"/></a>
 </p><br>
 
-
- 
 # 📝 Study log
-<div display="flex" flex-direction= "row">
-  <div align="left" width:"100px"  >
-     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soom1ng&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
   
-  <!-- </div>
-  <div align="right" width:"300px" >
-     
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soom1ng&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift) 
-   </div> --!>
-
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soom1ng&layout=compact" style="width: auto; display:inline-block" />
+	<img src="https://github-readme-stats.vercel.app/api?username=soom1ng&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift" style="width: 51%; height: 100%; display:inline-block" />
 </div>
+
+<br><br>
+
+
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soom1ng&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift) -->
     

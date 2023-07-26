@@ -35,7 +35,7 @@
   
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soom1ng&layout=compact" style="width: auto; display:inline-block" />
-	<img src="https://github-readme-stats.vercel.app/api?username=soom1ng&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift" style="width: 51%; height: 100%; display:inline-block" />
+	<img src="https://github-readme-stats.vercel.app/api?username=soom1ng&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift" style="width: 55%; height: 100%; display:inline-block" />
 </div>
 
 <br><br>

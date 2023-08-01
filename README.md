@@ -29,7 +29,8 @@
  
 <p align="center">
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoom1ng%2Fhit-counter&count_bg=%23FFDCDC&title_bg=%23FFD2D2&icon=github.svg&icon_color=%23F3F3F3&title=visited+++%F0%9F%96%90+&edge_flat=false"/></a>
-</p><br>
+</p><br> 
+
 
 # 📝 Study log
   
